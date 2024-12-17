@@ -1,0 +1,61 @@
+{
+	"name": "light-in-the-dark",
+	"displayName": "Light In The Dark",
+	"description": "A retro 80s neon theme with light and dark versions.",
+	"version": "0.0.1",
+	"publisher": "light-in-dark-theme",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"galleryBanner": {
+		"color": "#3d444d",
+		"theme": "dark"
+	},
+	"maintainers": [
+		"Antonio Fernandes <afj176@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/afj176/light-in-the-dark.git"
+	},
+	"bugs": {
+		"url": "https://github.com/afj176/light-in-the-dark/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"light-in-the-dark",
+		"dark",
+		"light",
+		"neon",
+		"80s",
+		"theme",
+		"color-theme"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light In The Dark (Boon Island Dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			},
+			{
+				"label": "Light In The Dark (Boon Island Light)",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			},
+			{
+				"label": "Light In The Dark (Rose Island Dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rich-dark.json"
+			},
+			{
+				"label": "Light In The Dark (Rose Island Light)",
+				"uiTheme": "vs",
+				"path": "./themes/rich-light.json"
+			}
+		]
+	}
+}

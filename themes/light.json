@@ -1,0 +1,85 @@
+{
+	"name": "Lights In The Dark (Light)",
+	"type": "light",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000",
+		"activityBar.background": "#f3f3f3",
+		"sideBar.background": "#f3f3f3",
+		"statusBar.background": "#e0e0e0",
+		"statusBar.foreground": "#000000",
+		"titleBar.activeBackground": "#e0e0e0",
+		"titleBar.activeForeground": "#000000",
+		"titleBar.inactiveBackground": "#f3f3f3",
+		"titleBar.inactiveForeground": "#6a737d",
+		"icon.foreground": "#56b6c2",
+		"sideBarSectionHeader.foreground": "#56b6c2",
+		"activityBar.foreground": "#98c379"
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#6a737d"
+			}
+		},
+		{
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#d19a66"
+			}
+		},
+		{
+			"scope": [
+				"keyword"
+			],
+			"settings": {
+				"foreground": "#c678dd"
+			}
+		},
+		{
+			"scope": [
+				"variable"
+			],
+			"settings": {
+				"foreground": "#56b6c2"
+			}
+		},
+		{
+			"scope": [
+				"constant"
+			],
+			"settings": {
+				"foreground": "#e5c07b"
+			}
+		},
+		{
+			"scope": [
+				"number"
+			],
+			"settings": {
+				"foreground": "#61aeee"
+			}
+		},
+		{
+			"scope": [
+				"function"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
+		},
+		{
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#98c379"
+			}
+		}
+	]
+}

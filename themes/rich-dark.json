@@ -1,0 +1,94 @@
+{
+	"name": "Lights In The Dark (Rich Dark)",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#362712",
+		"editor.foreground": "#ffffff",
+		"activityBar.background": "#362712",
+		"sideBar.background": "#362712",
+		"statusBar.background": "#362712",
+		"statusBar.foreground": "#ffffff",
+		"titleBar.activeBackground": "#362712",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#4a3a24",
+		"titleBar.inactiveForeground": "#6a737d",
+		"tab.inactiveBackground": "#4a3a24",
+		"tab.inactiveForeground": "#6a737d",
+		"list.activeSelectionBackground": "#4a3a24",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.inactiveSelectionBackground": "#4a3a24",
+		"list.inactiveSelectionForeground": "#6a737d",
+		"editorGroupHeader.tabsBackground": "#4a3a24",
+		"editorGroupHeader.noTabsBackground": "#4a3a24",
+		"debugToolBar.background": "#4a3a24",
+		"icon.foreground": "#d19a66",
+		"sideBarSectionHeader.foreground": "#d19a66",
+		"activityBar.foreground": "#e06c75"
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#6a737d"
+			}
+		},
+		{
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#d19a66"
+			}
+		},
+		{
+			"scope": [
+				"keyword"
+			],
+			"settings": {
+				"foreground": "#c678dd"
+			}
+		},
+		{
+			"scope": [
+				"variable"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
+		},
+		{
+			"scope": [
+				"constant"
+			],
+			"settings": {
+				"foreground": "#e5c07b"
+			}
+		},
+		{
+			"scope": [
+				"number"
+			],
+			"settings": {
+				"foreground": "#e5c07b"
+			}
+		},
+		{
+			"scope": [
+				"function"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
+		},
+		{
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#e06c75"
+			}
+		}
+	]
+}
