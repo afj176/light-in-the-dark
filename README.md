@@ -4,19 +4,19 @@
 
 ---
 
-# Light in the Dark
+# Lighthouse In The Dark
 
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Light in the Dark`
+2. Search for `Lighthouse In The Dark`
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
-5. Select **Preferences: Color Theme** and choose a `Light in the Dark` variant.
+5. Select **Preferences: Color Theme** and choose a `Lighthouse In The Dark` variant.
 
-`Light in the Dark` is a group of themes using rich or pastel color themes.
+`Lighthouse In The Dark` is a group of themes using rich or pastel color themes.
 
-`Light in the Dark` currently has four versions.
+`Lighthouse In The Dark` currently has four versions.
 
 -   `Boon Island Light` background is a white and green UI with vibrant colors
 -   `Boon Island Dark` background is a black and green UI with vibrant colors

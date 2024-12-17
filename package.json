@@ -1,9 +1,9 @@
 {
-	"name": "light-in-the-dark",
-	"displayName": "Light In The Dark",
+	"name": "lighthouse-in-the-dark",
+	"displayName": "Lighthouse In The Dark",
 	"description": "A retro 80s neon theme with light and dark versions.",
 	"version": "0.0.1",
-	"publisher": "light-in-dark-theme",
+	"publisher": "CodeTime",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
@@ -16,16 +16,16 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/afj176/light-in-the-dark.git"
+		"url": "https://github.com/afj176/lighthouse-in-the-dark.git"
 	},
 	"bugs": {
-		"url": "https://github.com/afj176/light-in-the-dark/issues"
+		"url": "https://github.com/afj176/lighthouse-in-the-dark/issues"
 	},
 	"categories": [
 		"Themes"
 	],
 	"keywords": [
-		"light-in-the-dark",
+		"lighthouse-in-the-dark",
 		"dark",
 		"light",
 		"neon",
@@ -37,22 +37,22 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Light In The Dark (Boon Island Dark)",
+				"label": "Lighthouse In The Dark (Boon Island Dark)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark.json"
 			},
 			{
-				"label": "Light In The Dark (Boon Island Light)",
+				"label": "Lighthouse In The Dark (Boon Island Light)",
 				"uiTheme": "vs",
 				"path": "./themes/light.json"
 			},
 			{
-				"label": "Light In The Dark (Rose Island Dark)",
+				"label": "Lighthouse In The Dark (Rose Island Dark)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/rich-dark.json"
 			},
 			{
-				"label": "Light In The Dark (Rose Island Light)",
+				"label": "Lighthouse In The Dark (Rose Island Light)",
 				"uiTheme": "vs",
 				"path": "./themes/rich-light.json"
 			}
